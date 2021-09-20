@@ -1,4 +1,64 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="XXX - XXL (M)" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png" group-title="CANALES-ADULTOS +18",XXX - XXL (M)
+http://89.187.173.185:25461/noviembre2/bJN4fI5fpU/55256
+#EXTINF:-1 tvg-id="" tvg-name="XXX - Erox (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png" group-title="CANALES-ADULTOS +18",XXX - Erox (M)(1080)
+http://89.187.173.185:25461/noviembre2/bJN4fI5fpU/55260
+#EXTINF:-1 tvg-id="" tvg-name="XXX - HOT TV (M)" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png" group-title="CANALES-ADULTOS +18",XXX - HOT TV (M)
+http://89.187.173.185:25461/noviembre2/bJN4fI5fpU/55303
+#EXTINF:-1 tvg-id="" tvg-name="XXX - X1 (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png" group-title="CANALES-ADULTOS +18",XXX - X1 (M)(1080)
+http://89.187.173.185:25461/noviembre2/bJN4fI5fpU/67372
+#EXTINF:-1 tvg-id="" tvg-name="XXX - Dorcel (M)(720)" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png" group-title="CANALES-ADULTOS +18",XXX - Dorcel (M)(720)
+http://89.187.173.185:25461/noviembre2/bJN4fI5fpU/67374
+#EXTINF:-1 tvg-id="" tvg-name="XXX - Hustler TV (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png" group-title="CANALES-ADULTOS +18",XXX - Hustler TV (M)(1080)
+http://89.187.173.185:25461/noviembre2/bJN4fI5fpU/67375
+#EXTINF:-1 tvg-id="" tvg-name="XXX - Playboy (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png" group-title="CANALES-ADULTOS +18",XXX - Playboy (M)(1080)
+http://89.187.173.185:25461/noviembre2/bJN4fI5fpU/67377
+#EXTINF:-1 tvg-id="" tvg-name="XXX - Playboy Europe (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png" group-title="CANALES-ADULTOS +18",XXX - Playboy Europe (M)(1080)
+http://89.187.173.185:25461/noviembre2/bJN4fI5fpU/67378
+#EXTINF:-1 tvg-id="" tvg-name="XXX - SCT Classic (M)(720)" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png" group-title="CANALES-ADULTOS +18",XXX - SCT Classic (M)(720)
+http://89.187.173.185:25461/noviembre2/bJN4fI5fpU/67379
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="XXX - Sextreme (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png" group-title="CANALES-ADULTOS +18",XXX - Sextreme (M)(1080)
+http://89.187.173.185:25461/noviembre2/bJN4fI5fpU/67380
+#EXTINF:-1 tvg-id="" tvg-name="XXX - Venus TV (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png" group-title="CANALES-ADULTOS +18",XXX - Venus TV (M)(1080)
+http://89.187.173.185:25461/noviembre2/bJN4fI5fpU/67381
+#EXTINF:-1 tvg-id="" tvg-name="XXX - Rusian Night (M)(720)" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png" group-title="CANALES-ADULTOS +18",XXX - Rusian Night (M)(720)
+http://89.187.173.185:25461/noviembre2/bJN4fI5fpU/67382
+#EXTINF:-1 tvg-id="Playboy.us" tvg-name="XXX - Playboy TV (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png" group-title="CANALES-ADULTOS +18",XXX - Playboy TV (M)(1080)
+http://89.187.173.185:25461/noviembre2/bJN4fI5fpU/67383
+#EXTINF:-1 tvg-id="" tvg-name="XXX - Taboo (M)(720)" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png" group-title="CANALES-ADULTOS +18",XXX - Taboo (M)(720)
+http://89.187.173.185:25461/noviembre2/bJN4fI5fpU/67384
+#EXTINF:-1 tvg-id="Venus.ar" tvg-name="XXX - Venus (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png" group-title="CANALES-ADULTOS +18",XXX - Venus (M)(1080)
+http://89.187.173.185:25461/noviembre2/bJN4fI5fpU/67385
+#EXTINF:-1 tvg-id="" tvg-name="XXX - HOT TV LA5 (M)" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png" group-title="CANALES-ADULTOS +18",XXX - HOT TV LA5 (M)
+http://89.187.173.185:25461/noviembre2/bJN4fI5fpU/69984
+#EXTINF:-1 tvg-id="" tvg-name="XXX - HOT TV LA4" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png" group-title="CANALES-ADULTOS +18",XXX - HOT TV LA4
+http://89.187.173.185:25461/noviembre2/bJN4fI5fpU/69985
+#EXTINF:-1 tvg-id="" tvg-name="XXX - HOT TV LA3" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png" group-title="CANALES-ADULTOS +18",XXX - HOT TV LA3
+http://89.187.173.185:25461/noviembre2/bJN4fI5fpU/69986
+#EXTINF:-1 tvg-id="" tvg-name="XXX - HOT TV LA2" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png" group-title="CANALES-ADULTOS +18",XXX - HOT TV LA2
+http://89.187.173.185:25461/noviembre2/bJN4fI5fpU/69987
+#EXTINF:-1 tvg-id="" tvg-name="XXX - HOT TV LA1" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png" group-title="CANALES-ADULTOS +18",XXX - HOT TV LA1
+http://89.187.173.185:25461/noviembre2/bJN4fI5fpU/69988
+#EXTINF:-1 tvg-id="" tvg-name="XXX - HOT TV LA10" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png" group-title="CANALES-ADULTOS +18",XXX - HOT TV LA10
+http://89.187.173.185:25461/noviembre2/bJN4fI5fpU/69989
+#EXTINF:-1 tvg-id="" tvg-name="XXX - HOT TV LA9" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png" group-title="CANALES-ADULTOS +18",XXX - HOT TV LA9
+http://89.187.173.185:25461/noviembre2/bJN4fI5fpU/69990
+#EXTINF:-1 tvg-id="" tvg-name="XXX - XXL (M)(720)" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png" group-title="CANALES-ADULTOS +18",XXX - XXL (M)(720)
+http://89.187.173.185:25461/noviembre2/bJN4fI5fpU/69991
+#EXTINF:-1 tvg-id="" tvg-name="XXX - HOT TV LA7" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png" group-title="CANALES-ADULTOS +18",XXX - HOT TV LA7
+http://89.187.173.185:25461/noviembre2/bJN4fI5fpU/69992
+#EXTINF:-1 tvg-id="" tvg-name="XXX - HOT TV LA6" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png" group-title="CANALES-ADULTOS +18",XXX - HOT TV LA6
+http://89.187.173.185:25461/noviembre2/bJN4fI5fpU/69993
+#EXTINF:-1 tvg-id="" tvg-name="XXX - Sextreme HOT LA6" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png" group-title="CANALES-ADULTOS +18",XXX - Sextreme HOT LA6
+http://89.187.173.185:25461/noviembre2/bJN4fI5fpU/69994
+#EXTINF:-1 tvg-id="" tvg-name="XXX - Sextreme HOT LA5" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png" group-title="CANALES-ADULTOS +18",XXX - Sextreme HOT LA5
+http://89.187.173.185:25461/noviembre2/bJN4fI5fpU/69995
+#EXTINF:-1 tvg-id="" tvg-name="XXX - Sextreme HOT LA3" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png" group-title="CANALES-ADULTOS +18",XXX - Sextreme HOT LA3
+http://89.187.173.185:25461/noviembre2/bJN4fI5fpU/69996
+#EXTINF:-1 tvg-id="" tvg-name="XXX - Sextreme HOT LA2" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png" group-title="CANALES-ADULTOS +18",XXX - Sextreme HOT LA2
+http://89.187.173.185:25461/noviembre2/bJN4fI5fpU/69997
+#EXTINF:-1 tvg-id="" tvg-name="XXX - Sextreme HOT LA1" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png" group-title="CANALES-ADULTOS +18",XXX - Sextreme HOT LA1
+http://89.187.173.185:25461/noviembre2/bJN4fI5fpU/69998
 #EXTINF:-1,1
 http://bit.ly/2DCStU4
 #EXTINF:-1,2
